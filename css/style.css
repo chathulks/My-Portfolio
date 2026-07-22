@@ -12,5 +12,14 @@
 }
 
 .icon-my{
-    
+    font-size: 23px;
+    color: rgb(247, 0, 0);
+}
+
+.icon-div{
+    position: relative;
+    background-color: rgb(156, 156, 156);
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
 }
