@@ -57,3 +57,15 @@
     font-weight: 400;
     text-align: end;
 }
+
+.about-text {
+    font-size: 55px;
+    font-weight: 700;
+    text-align: start;
+}
+
+.my-position-text-about {
+    font-size: 25px;
+    font-weight: 400;
+    text-align: start;
+}
