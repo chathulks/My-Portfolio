@@ -69,3 +69,16 @@
     font-weight: 400;
     text-align: start;
 }
+
+.my-skils {
+    width: 150px;
+    height: 150px;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-skils-icon {
+    width: 60px;
+}
