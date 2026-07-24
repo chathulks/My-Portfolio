@@ -72,8 +72,8 @@
 
 .swiper {
     overflow: hidden;
-    max-width: 1200px;
-    margin: 0 70px 50px;
+    max-width: 1000px;
+    margin: 0 0 40px;
 }
 
 .swiper .swiper-pagination-bullet {
@@ -85,6 +85,16 @@
 .swiper .swiper-button-prev,
 .swiper .swiper-button-next {
     color: #00000039;
-    width: 25px;
-    height: 25px;
+    width: 20px;
+    height: 20px;
+}
+
+.skil-logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 40px;
+}
+
+.skil-icon{
+    width: 90px;
 }

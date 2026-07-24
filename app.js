@@ -2,7 +2,7 @@ const swiper = new Swiper('.swiper', {
   // Optional parameters
   loop: true,
   grabCursor: true,
-  spaceBetween: 30,
+  spaceBetween: 5,
   
   // If we need pagination
   pagination: {
@@ -22,10 +22,10 @@ const swiper = new Swiper('.swiper', {
       slidesPerView: 1,
     },
     620: {
-      slidesPerView: 2,
+      slidesPerView: 3,
     },
     1024: {
-      slidesPerView: 3,
+      slidesPerView: 4,
     }
   }
 
