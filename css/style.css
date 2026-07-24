@@ -69,3 +69,22 @@
     font-weight: 400;
     text-align: start;
 }
+
+.swiper {
+    overflow: hidden;
+    max-width: 1200px;
+    margin: 0 70px 50px;
+}
+
+.swiper .swiper-pagination-bullet {
+    background-color: #000000b1;
+    width: 12px;
+    height: 12px;
+}
+
+.swiper .swiper-button-prev,
+.swiper .swiper-button-next {
+    color: #00000039;
+    width: 25px;
+    height: 25px;
+}
