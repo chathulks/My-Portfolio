@@ -37,7 +37,8 @@
 }
 
 .img-zero {
-    width: 60%;
+    width: 450px;
+    height: 450px;
     border-radius: 100%;
     border-color: rgb(0, 183, 199);
     box-shadow: 0 0 50px rgb(0, 183, 199);
