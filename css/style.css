@@ -37,8 +37,6 @@
 }
 
 .img-zero {
-    width: 520px;
-    height: 520px;
     border-radius: 100%;
     border-color: rgb(0, 183, 199);
     box-shadow: 0 0 50px rgb(0, 183, 199);
@@ -46,10 +44,24 @@
     border-style: outset;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 320px) {
     .img-zero {
-        width: 300px;
-        height: 300px;
+        width: 250px;
+        height: 250px;
+    }
+}
+
+@media (min-width: 768px) {
+    .img-zero {
+        width: 400px;
+        height: 400px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .img-zero {
+        width: 530px;
+        height: 530px;
     }
 }
 
