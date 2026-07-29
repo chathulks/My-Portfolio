@@ -142,3 +142,19 @@ body{
 .nav-text{
     color: rgb(205, 205, 205);
 }
+
+.my-service-text-main{
+    color: rgb(226, 226, 226);
+}
+
+.my-card{
+    background-color: rgb(35, 35, 42);
+}
+
+.service-my-icon{
+    color: rgb(226, 226, 226);
+}
+
+.service-title{
+    color: rgb(255, 255, 255);
+}
