@@ -3,7 +3,7 @@ const swiper = new Swiper('.swiper', {
   loop: true,
   grabCursor: true,
   spaceBetween: 5,
-  
+
   // If we need pagination
   pagination: {
     el: '.swiper-pagination',
@@ -29,4 +29,14 @@ const swiper = new Swiper('.swiper', {
     }
   }
 
+});
+
+let typed = new Typed('.typed', {
+  strings: ['Web Developer', 'Front-End Developer', 'Back-End Developer', 'Full-Stack Developer', 'Android Developer', 'UI/UX Designer'],
+  typeSpeed: 100,
+  backSpeed: 100,
+  loop: true,
+  showCursor: true,
+  cursorChar: '|',
+  smartBackspace: true,
 });

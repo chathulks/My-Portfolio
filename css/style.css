@@ -72,14 +72,14 @@ body {
 .my-name-text {
     font-size: 3rem;
     font-weight: 700;
-    text-align: end;
+    text-align: start;
     color: rgb(0, 183, 199);
 }
 
 .my-position-text {
     font-size: 25px;
     font-weight: 400;
-    text-align: end;
+    text-align: start;
     color: rgb(226, 226, 226);
 }
 
