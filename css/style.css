@@ -178,3 +178,27 @@ body {
 .project-main-text {
     color: rgb(255, 255, 255);
 }
+
+.contact-card {
+    background-color: rgb(35, 35, 42);
+}
+
+.contact-main-text {
+    color: rgb(0, 183, 199);
+}
+
+.contact-text {
+    color: rgb(226, 226, 226);
+}
+
+.icon-contact {
+    color: rgb(0, 183, 199);
+}
+
+.contact-text-2 {
+    color: rgb(155, 155, 155);
+}
+
+.text-lable-contact{
+    color: rgb(226, 226, 226);
+}
