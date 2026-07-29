@@ -80,7 +80,7 @@ body{
     font-size: 25px;
     font-weight: 400;
     text-align: end;
-    color: rgb(205, 205, 205);
+    color: rgb(226, 226, 226);
 }
 
 .my-para{
@@ -91,12 +91,14 @@ body{
     font-size: 3rem;
     font-weight: 700;
     text-align: start;
+    color: rgb(0, 183, 199);
 }
 
 .my-position-text-about {
     font-size: 25px;
     font-weight: 400;
     text-align: start;
+    color: rgb(226, 226, 226);
 }
 
 .swiper {
