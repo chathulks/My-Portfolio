@@ -1,4 +1,4 @@
-body{
+body {
     background-color: rgb(20, 20, 33);
 }
 
@@ -83,7 +83,7 @@ body{
     color: rgb(226, 226, 226);
 }
 
-.my-para{
+.my-para {
     color: rgb(155, 155, 155);
 }
 
@@ -131,30 +131,39 @@ body{
     width: 60px;
 }
 
-.nav-main-bar{
+.nav-main-bar {
     background-color: rgb(20, 20, 33);
 }
 
-.nav-logo{
+.nav-logo {
     color: rgb(0, 183, 199);
 }
 
-.nav-text{
+.nav-text {
     color: rgb(205, 205, 205);
 }
 
-.my-service-text-main{
+.my-service-text-main {
     color: rgb(226, 226, 226);
 }
 
-.my-card{
+.my-card {
     background-color: rgb(35, 35, 42);
+    cursor: pointer;
+    transition: 0.4s;
+    box-shadow: inset 0px 0px 30px 1px rgb(80, 80, 80);
 }
 
-.service-my-icon{
+.service-my-icon {
     color: rgb(226, 226, 226);
 }
 
-.service-title{
+.service-title {
     color: rgb(255, 255, 255);
+}
+
+.my-card:hover {
+    background-color: rgb(0, 96, 105);
+    box-shadow: inset 0px 0px 30px 1px rgb(80, 80, 80),
+        0px 0px 30px 1px rgb(0, 130, 142);
 }
