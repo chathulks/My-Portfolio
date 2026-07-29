@@ -125,14 +125,16 @@ body {
     width: 120px;
     height: 120px;
     border-radius: 30px;
+    background-color: rgb(35, 35, 42);
+    cursor: pointer;
     transition: 0.4s;
-    background-color: rgb(209, 209, 209);
+    box-shadow: inset 0px 0px 30px 1px rgb(80, 80, 80);
 }
 
 .skil-logo:hover {
-    background-color: rgb(0, 216, 235);
-    box-shadow: 0px 0px 15px 2px rgb(255, 255, 255),
-        inset 0px 0px 15px 2px rgb(64, 64, 64);
+    background-color: rgb(0, 96, 105);
+    box-shadow: inset 0px 0px 30px 1px rgb(80, 80, 80),
+        0px 0px 30px 1px rgb(0, 130, 142);
 }
 
 .skil-icon {
