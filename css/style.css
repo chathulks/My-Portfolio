@@ -73,12 +73,18 @@ body{
     font-size: 3rem;
     font-weight: 700;
     text-align: end;
+    color: rgb(0, 183, 199);
 }
 
 .my-position-text {
     font-size: 25px;
     font-weight: 400;
     text-align: end;
+    color: rgb(205, 205, 205);
+}
+
+.my-para{
+    color: rgb(155, 155, 155);
 }
 
 .about-text {
