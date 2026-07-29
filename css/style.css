@@ -167,3 +167,7 @@ body {
     box-shadow: inset 0px 0px 30px 1px rgb(80, 80, 80),
         0px 0px 30px 1px rgb(0, 130, 142);
 }
+
+.project-main-text {
+    color: rgb(255, 255, 255);
+}
