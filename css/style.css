@@ -108,14 +108,14 @@ body {
 }
 
 .swiper .swiper-pagination-bullet {
-    background-color: #000000b1;
+    background-color: #009699;
     width: 12px;
     height: 12px;
 }
 
 .swiper .swiper-button-prev,
 .swiper .swiper-button-next {
-    color: #00000039;
+    color: #6c6c6c;
     width: 20px;
     height: 20px;
     position: absolute;
@@ -125,6 +125,13 @@ body {
     width: 120px;
     height: 120px;
     border-radius: 30px;
+    transition: 0.4s;
+}
+
+.skil-logo:hover {
+    background-color: rgb(0, 183, 199);
+    box-shadow: 0px 0px 15px 2px rgb(222, 222, 222),
+        inset 0px 0px 15px 2px rgb(51, 51, 51);
 }
 
 .skil-icon {
