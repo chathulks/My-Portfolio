@@ -146,11 +146,21 @@ body {
 }
 
 .nav-logo {
+    color: rgb(255, 255, 255);
+    transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.nav-logo:hover {
     color: rgb(0, 183, 199);
 }
 
 .nav-text {
     color: rgb(205, 205, 205);
+    transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.nav-text:hover {
+    color: rgb(0, 183, 199);
 }
 
 .my-service-text-main {
@@ -220,4 +230,8 @@ body {
     background-color: rgb(51, 51, 59);
     color: rgb(226, 226, 226);
     border: none;
+}
+
+.contact-pading{
+    padding-top: 100px;
 }
